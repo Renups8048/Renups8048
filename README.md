@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Renuka Prasad
-- 👀 I’m interested in Database development
-- 🌱 I’m currently learning python and the analytical database (Postgres)
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning end to end software product development.
 - 📫 How to reach me on (skype:renukaprasads8048)
 
 <!---
